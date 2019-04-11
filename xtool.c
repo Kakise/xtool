@@ -1,6 +1,6 @@
 #include <os.h>
 
-#define SRC_DIR "\\documents\\MyLib\\"
+#define SRC_DIR "\\documents\\"
 #define DST_DIR "\\exammode\\usr\\Press-to-Test\\"
 
 #define BUF_SIZE 256
